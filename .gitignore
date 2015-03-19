@@ -77,4 +77,3 @@ readme.txt
 # CKAN stuff
 ckan/downloads/*
 ckan/Plugins/*
-ckan/registry.json
