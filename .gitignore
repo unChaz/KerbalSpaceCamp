@@ -55,7 +55,7 @@ target/
 
 # KSP Stuff
 GameData/NASAmission/*
-GameData/Squad/*
+GameData/SqSuad/*
 Internals/*
 KSP_Data/*
 KSP_x64_Data/*
