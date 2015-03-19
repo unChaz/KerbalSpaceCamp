@@ -1,8 +1,8 @@
 # Kerbal Space Camp
 
 ## Dependencies
-Python
-Python PasteScript
+- Python 2.7.9
+- Python PasteScript 1.7.5
 
 ## Getting Started
 You will need to purchase your own distribution of Kerbal Space Program. 
