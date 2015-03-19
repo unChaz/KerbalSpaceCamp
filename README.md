@@ -1,5 +1,9 @@
 # Kerbal Space Camp
 
+## Dependencies
+Python
+Python PasteScript
+
 ## Getting Started
 You will need to purchase your own distribution of Kerbal Space Program. 
 
