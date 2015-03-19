@@ -54,8 +54,7 @@ docs/_build/
 target/
 
 # KSP Stuff
-GameData/NASAmission/*
-GameData/SqSuad/*
+GameData/*
 Internals/*
 KSP_Data/*
 KSP_x64_Data/*
@@ -74,3 +73,8 @@ KSP.exe
 KSP_x64.exe
 Launcher.exe
 readme.txt
+
+# CKAN stuff
+ckan/downloads/*
+ckan/Plugins/*
+ckan/registry.json
