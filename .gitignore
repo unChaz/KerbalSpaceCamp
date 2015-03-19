@@ -52,3 +52,25 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# KSP Stuff
+GameData/NASAmission/*
+GameData/Squad/*
+Internals/*
+KSP_Data/*
+KSP_x64_Data/*
+Launcher_Data/*
+Parts/*
+PluginData/*
+Plugins/*
+Resources/*
+Saves/*
+Screenshots/*
+Ships/*
+Sounds/*
+buildID.txt
+buildID64.txt
+KSP.exe
+KSP_x64.exe
+Launcher.exe
+readme.txt
