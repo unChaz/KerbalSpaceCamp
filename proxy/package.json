@@ -1,0 +1,13 @@
+{
+	"name": "KerbalSpaceCampProxy",
+	"private": true,
+	"version": "0.1.0",
+	"author": "Chaz Ferguson <chaz.ferguson@gmail.com>",
+	"description": "Bitcoin AML Service",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"http-proxy": "1.9.0"
+	}
+}
